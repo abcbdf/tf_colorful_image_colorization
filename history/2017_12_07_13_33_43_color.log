@@ -1,0 +1,224 @@
+Thu, 07 Dec 2017 13:33:43 main.py[line:111] INFO Start:
+Thu, 07 Dec 2017 13:33:48 main.py[line:57] DEBUG load:0.21280431747436523
+Thu, 07 Dec 2017 13:33:55 main.py[line:59] DEBUG run:7.8005430698394775
+Thu, 07 Dec 2017 13:33:55 main.py[line:57] DEBUG load:0.03302311897277832
+Thu, 07 Dec 2017 13:34:03 main.py[line:59] DEBUG run:7.701927900314331
+Thu, 07 Dec 2017 13:34:03 main.py[line:57] DEBUG load:0.03125119209289551
+Thu, 07 Dec 2017 13:34:11 main.py[line:59] DEBUG run:7.834968328475952
+Thu, 07 Dec 2017 13:34:12 main.py[line:88] DEBUG decode:0.055039167404174805
+Thu, 07 Dec 2017 13:34:12 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:34:12 load_image.py[line:89] INFO 10.946067342377663
+Thu, 07 Dec 2017 13:34:12 main.py[line:90] DEBUG displaytime:0.02802300453186035
+Thu, 07 Dec 2017 13:34:14 main.py[line:88] DEBUG decode:0.057044029235839844
+Thu, 07 Dec 2017 13:34:14 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:34:14 load_image.py[line:89] INFO 10.946067342377663
+Thu, 07 Dec 2017 13:34:14 main.py[line:90] DEBUG displaytime:0.01901555061340332
+Thu, 07 Dec 2017 13:34:15 main.py[line:88] DEBUG decode:0.05603957176208496
+Thu, 07 Dec 2017 13:34:15 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:34:15 load_image.py[line:89] INFO 10.946067342377663
+Thu, 07 Dec 2017 13:34:15 main.py[line:90] DEBUG displaytime:0.019013643264770508
+Thu, 07 Dec 2017 13:34:15 main.py[line:135] INFO Epoch 1 of 20 took 27.459940433502197s
+Thu, 07 Dec 2017 13:34:15 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:34:15 main.py[line:137] INFO   training loss:                 0.0208907835186
+Thu, 07 Dec 2017 13:34:15 main.py[line:138] INFO   validation loss:               0.0193481072783
+Thu, 07 Dec 2017 13:34:15 main.py[line:57] DEBUG load:0.0320587158203125
+Thu, 07 Dec 2017 13:34:23 main.py[line:59] DEBUG run:7.711233139038086
+Thu, 07 Dec 2017 13:34:23 main.py[line:57] DEBUG load:0.03702592849731445
+Thu, 07 Dec 2017 13:34:30 main.py[line:59] DEBUG run:7.552231073379517
+Thu, 07 Dec 2017 13:34:30 main.py[line:57] DEBUG load:0.0360255241394043
+Thu, 07 Dec 2017 13:34:38 main.py[line:59] DEBUG run:7.985291957855225
+Thu, 07 Dec 2017 13:34:40 main.py[line:88] DEBUG decode:0.05604386329650879
+Thu, 07 Dec 2017 13:34:40 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:34:40 load_image.py[line:89] INFO 11.488666492699009
+Thu, 07 Dec 2017 13:34:40 main.py[line:90] DEBUG displaytime:0.02602696418762207
+Thu, 07 Dec 2017 13:34:41 main.py[line:88] DEBUG decode:0.06604599952697754
+Thu, 07 Dec 2017 13:34:41 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:34:41 load_image.py[line:89] INFO 11.488666492699009
+Thu, 07 Dec 2017 13:34:41 main.py[line:90] DEBUG displaytime:0.01901865005493164
+Thu, 07 Dec 2017 13:34:42 main.py[line:88] DEBUG decode:0.05603957176208496
+Thu, 07 Dec 2017 13:34:42 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:34:42 load_image.py[line:89] INFO 11.488666492699009
+Thu, 07 Dec 2017 13:34:42 main.py[line:90] DEBUG displaytime:0.018017292022705078
+Thu, 07 Dec 2017 13:34:42 main.py[line:135] INFO Epoch 2 of 20 took 27.37319040298462s
+Thu, 07 Dec 2017 13:34:42 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:34:42 main.py[line:137] INFO   training loss:                 0.0185771267861
+Thu, 07 Dec 2017 13:34:42 main.py[line:138] INFO   validation loss:               0.017037300393
+Thu, 07 Dec 2017 13:34:42 main.py[line:57] DEBUG load:0.03402400016784668
+Thu, 07 Dec 2017 13:34:50 main.py[line:59] DEBUG run:7.721019506454468
+Thu, 07 Dec 2017 13:34:50 main.py[line:57] DEBUG load:0.03554844856262207
+Thu, 07 Dec 2017 13:34:58 main.py[line:59] DEBUG run:7.793691635131836
+Thu, 07 Dec 2017 13:34:58 main.py[line:57] DEBUG load:0.03458285331726074
+Thu, 07 Dec 2017 13:35:05 main.py[line:59] DEBUG run:7.6266632080078125
+Thu, 07 Dec 2017 13:35:07 main.py[line:88] DEBUG decode:0.05955386161804199
+Thu, 07 Dec 2017 13:35:07 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:35:07 load_image.py[line:89] INFO 13.58118357868726
+Thu, 07 Dec 2017 13:35:07 main.py[line:90] DEBUG displaytime:0.023538589477539062
+Thu, 07 Dec 2017 13:35:08 main.py[line:88] DEBUG decode:0.05603933334350586
+Thu, 07 Dec 2017 13:35:08 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:35:08 load_image.py[line:89] INFO 13.58118357868726
+Thu, 07 Dec 2017 13:35:08 main.py[line:90] DEBUG displaytime:0.01801300048828125
+Thu, 07 Dec 2017 13:35:09 main.py[line:88] DEBUG decode:0.056038856506347656
+Thu, 07 Dec 2017 13:35:09 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:35:09 load_image.py[line:89] INFO 13.58118357868726
+Thu, 07 Dec 2017 13:35:09 main.py[line:90] DEBUG displaytime:0.01801443099975586
+Thu, 07 Dec 2017 13:35:09 main.py[line:135] INFO Epoch 3 of 20 took 27.243086099624634s
+Thu, 07 Dec 2017 13:35:09 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:35:09 main.py[line:137] INFO   training loss:                 0.0162726591031
+Thu, 07 Dec 2017 13:35:09 main.py[line:138] INFO   validation loss:               0.0147466100752
+Thu, 07 Dec 2017 13:35:10 main.py[line:57] DEBUG load:0.03302764892578125
+Thu, 07 Dec 2017 13:35:17 main.py[line:59] DEBUG run:7.729341268539429
+Thu, 07 Dec 2017 13:35:17 main.py[line:57] DEBUG load:0.038027286529541016
+Thu, 07 Dec 2017 13:35:25 main.py[line:59] DEBUG run:7.922604084014893
+Thu, 07 Dec 2017 13:35:25 main.py[line:57] DEBUG load:0.03652501106262207
+Thu, 07 Dec 2017 13:35:33 main.py[line:59] DEBUG run:7.716408967971802
+Thu, 07 Dec 2017 13:35:34 main.py[line:88] DEBUG decode:0.052918195724487305
+Thu, 07 Dec 2017 13:35:34 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:35:34 load_image.py[line:89] INFO 17.948403571194348
+Thu, 07 Dec 2017 13:35:34 main.py[line:90] DEBUG displaytime:0.015624284744262695
+Thu, 07 Dec 2017 13:35:35 main.py[line:88] DEBUG decode:0.0555422306060791
+Thu, 07 Dec 2017 13:35:35 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:35:35 load_image.py[line:89] INFO 17.948403571194348
+Thu, 07 Dec 2017 13:35:35 main.py[line:90] DEBUG displaytime:0.018514394760131836
+Thu, 07 Dec 2017 13:35:37 main.py[line:88] DEBUG decode:0.05603909492492676
+Thu, 07 Dec 2017 13:35:37 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:35:37 load_image.py[line:89] INFO 17.948403571194348
+Thu, 07 Dec 2017 13:35:37 main.py[line:90] DEBUG displaytime:0.01801276206970215
+Thu, 07 Dec 2017 13:35:37 main.py[line:135] INFO Epoch 4 of 20 took 27.283902168273926s
+Thu, 07 Dec 2017 13:35:37 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:35:37 main.py[line:137] INFO   training loss:                 0.0139901125804
+Thu, 07 Dec 2017 13:35:37 main.py[line:138] INFO   validation loss:               0.0124881956726
+Thu, 07 Dec 2017 13:35:37 main.py[line:57] DEBUG load:0.032623291015625
+Thu, 07 Dec 2017 13:35:45 main.py[line:59] DEBUG run:7.699685573577881
+Thu, 07 Dec 2017 13:35:45 main.py[line:57] DEBUG load:0.034560441970825195
+Thu, 07 Dec 2017 13:35:52 main.py[line:59] DEBUG run:7.483161449432373
+Thu, 07 Dec 2017 13:35:52 main.py[line:57] DEBUG load:0.03502631187438965
+Thu, 07 Dec 2017 13:36:00 main.py[line:59] DEBUG run:7.695221424102783
+Thu, 07 Dec 2017 13:36:01 main.py[line:88] DEBUG decode:0.05704307556152344
+Thu, 07 Dec 2017 13:36:01 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:36:01 load_image.py[line:89] INFO 19.881958659330813
+Thu, 07 Dec 2017 13:36:01 main.py[line:90] DEBUG displaytime:0.02403545379638672
+Thu, 07 Dec 2017 13:36:02 main.py[line:88] DEBUG decode:0.05338692665100098
+Thu, 07 Dec 2017 13:36:02 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:36:02 load_image.py[line:89] INFO 19.881958659330813
+Thu, 07 Dec 2017 13:36:02 main.py[line:90] DEBUG displaytime:0.015627622604370117
+Thu, 07 Dec 2017 13:36:04 main.py[line:88] DEBUG decode:0.06250381469726562
+Thu, 07 Dec 2017 13:36:04 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:36:04 load_image.py[line:89] INFO 19.881958659330813
+Thu, 07 Dec 2017 13:36:04 main.py[line:90] DEBUG displaytime:0.015625
+Thu, 07 Dec 2017 13:36:04 main.py[line:135] INFO Epoch 5 of 20 took 26.773101329803467s
+Thu, 07 Dec 2017 13:36:04 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:36:04 main.py[line:137] INFO   training loss:                 0.0117503097281
+Thu, 07 Dec 2017 13:36:04 main.py[line:138] INFO   validation loss:               0.0102921258658
+Thu, 07 Dec 2017 13:36:04 main.py[line:57] DEBUG load:0.0377960205078125
+Thu, 07 Dec 2017 13:36:11 main.py[line:59] DEBUG run:7.540502309799194
+Thu, 07 Dec 2017 13:36:11 main.py[line:57] DEBUG load:0.04004859924316406
+Thu, 07 Dec 2017 13:36:19 main.py[line:59] DEBUG run:7.657797574996948
+Thu, 07 Dec 2017 13:36:19 main.py[line:57] DEBUG load:0.036025047302246094
+Thu, 07 Dec 2017 13:36:27 main.py[line:59] DEBUG run:7.648379802703857
+Thu, 07 Dec 2017 13:36:28 main.py[line:88] DEBUG decode:0.05554080009460449
+Thu, 07 Dec 2017 13:36:28 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:36:28 load_image.py[line:89] INFO 19.880410289282512
+Thu, 07 Dec 2017 13:36:28 main.py[line:90] DEBUG displaytime:0.025017976760864258
+Thu, 07 Dec 2017 13:36:29 main.py[line:88] DEBUG decode:0.05754423141479492
+Thu, 07 Dec 2017 13:36:29 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:36:29 load_image.py[line:89] INFO 19.880410289282512
+Thu, 07 Dec 2017 13:36:29 main.py[line:90] DEBUG displaytime:0.019516706466674805
+Thu, 07 Dec 2017 13:36:30 main.py[line:88] DEBUG decode:0.05603981018066406
+Thu, 07 Dec 2017 13:36:31 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:36:31 load_image.py[line:89] INFO 19.880410289282512
+Thu, 07 Dec 2017 13:36:31 main.py[line:90] DEBUG displaytime:0.01903510093688965
+Thu, 07 Dec 2017 13:36:31 main.py[line:135] INFO Epoch 6 of 20 took 26.964702367782593s
+Thu, 07 Dec 2017 13:36:31 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:36:31 main.py[line:137] INFO   training loss:                 0.00958645157516
+Thu, 07 Dec 2017 13:36:31 main.py[line:138] INFO   validation loss:               0.0082040252164
+Thu, 07 Dec 2017 13:36:31 main.py[line:57] DEBUG load:0.039847612380981445
+Thu, 07 Dec 2017 13:36:38 main.py[line:59] DEBUG run:7.579513311386108
+Thu, 07 Dec 2017 13:36:38 main.py[line:57] DEBUG load:0.03702592849731445
+Thu, 07 Dec 2017 13:36:46 main.py[line:59] DEBUG run:7.783731460571289
+Thu, 07 Dec 2017 13:36:46 main.py[line:57] DEBUG load:0.0360262393951416
+Thu, 07 Dec 2017 13:36:53 main.py[line:59] DEBUG run:7.5040857791900635
+Thu, 07 Dec 2017 13:36:55 main.py[line:88] DEBUG decode:0.05704069137573242
+Thu, 07 Dec 2017 13:36:55 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:36:55 load_image.py[line:89] INFO 19.832011957020462
+Thu, 07 Dec 2017 13:36:55 main.py[line:90] DEBUG displaytime:0.02502155303955078
+Thu, 07 Dec 2017 13:36:56 main.py[line:88] DEBUG decode:0.05704045295715332
+Thu, 07 Dec 2017 13:36:56 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:36:56 load_image.py[line:89] INFO 19.832011957020462
+Thu, 07 Dec 2017 13:36:56 main.py[line:90] DEBUG displaytime:0.018013715744018555
+Thu, 07 Dec 2017 13:36:57 main.py[line:88] DEBUG decode:0.059044837951660156
+Thu, 07 Dec 2017 13:36:57 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:36:57 load_image.py[line:89] INFO 19.832011957020462
+Thu, 07 Dec 2017 13:36:57 main.py[line:90] DEBUG displaytime:0.01901388168334961
+Thu, 07 Dec 2017 13:36:57 main.py[line:135] INFO Epoch 7 of 20 took 26.834019422531128s
+Thu, 07 Dec 2017 13:36:57 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:36:57 main.py[line:137] INFO   training loss:                 0.0075501788718
+Thu, 07 Dec 2017 13:36:57 main.py[line:138] INFO   validation loss:               0.00628849351779
+Thu, 07 Dec 2017 13:36:57 main.py[line:57] DEBUG load:0.033538818359375
+Thu, 07 Dec 2017 13:37:06 main.py[line:59] DEBUG run:8.376755475997925
+Thu, 07 Dec 2017 13:37:06 main.py[line:57] DEBUG load:0.036025047302246094
+Thu, 07 Dec 2017 13:37:13 main.py[line:59] DEBUG run:7.555110931396484
+Thu, 07 Dec 2017 13:37:13 main.py[line:57] DEBUG load:0.0355374813079834
+Thu, 07 Dec 2017 13:37:21 main.py[line:59] DEBUG run:7.940105676651001
+Thu, 07 Dec 2017 13:37:23 main.py[line:88] DEBUG decode:0.05704140663146973
+Thu, 07 Dec 2017 13:37:23 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:37:23 load_image.py[line:89] INFO 19.819182355824026
+Thu, 07 Dec 2017 13:37:23 main.py[line:90] DEBUG displaytime:0.025037527084350586
+Thu, 07 Dec 2017 13:37:24 main.py[line:88] DEBUG decode:0.056044578552246094
+Thu, 07 Dec 2017 13:37:24 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:37:24 load_image.py[line:89] INFO 19.819182355824026
+Thu, 07 Dec 2017 13:37:24 main.py[line:90] DEBUG displaytime:0.01801443099975586
+Thu, 07 Dec 2017 13:37:25 main.py[line:88] DEBUG decode:0.056542158126831055
+Thu, 07 Dec 2017 13:37:25 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:37:25 load_image.py[line:89] INFO 19.819182355824026
+Thu, 07 Dec 2017 13:37:25 main.py[line:90] DEBUG displaytime:0.018514394760131836
+Thu, 07 Dec 2017 13:37:25 main.py[line:135] INFO Epoch 8 of 20 took 27.80008029937744s
+Thu, 07 Dec 2017 13:37:25 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:37:25 main.py[line:137] INFO   training loss:                 0.00571173926195
+Thu, 07 Dec 2017 13:37:25 main.py[line:138] INFO   validation loss:               0.0046226195991
+Thu, 07 Dec 2017 13:37:25 main.py[line:57] DEBUG load:0.035042524337768555
+Thu, 07 Dec 2017 13:37:33 main.py[line:59] DEBUG run:7.687358617782593
+Thu, 07 Dec 2017 13:37:33 main.py[line:57] DEBUG load:0.0312497615814209
+Thu, 07 Dec 2017 13:37:40 main.py[line:59] DEBUG run:7.5108208656311035
+Thu, 07 Dec 2017 13:37:40 main.py[line:57] DEBUG load:0.03502511978149414
+Thu, 07 Dec 2017 13:37:48 main.py[line:59] DEBUG run:7.594328165054321
+Thu, 07 Dec 2017 13:37:49 main.py[line:88] DEBUG decode:0.05804157257080078
+Thu, 07 Dec 2017 13:37:49 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:37:49 load_image.py[line:89] INFO 19.816242339129165
+Thu, 07 Dec 2017 13:37:49 main.py[line:90] DEBUG displaytime:0.023572683334350586
+Thu, 07 Dec 2017 13:37:51 main.py[line:88] DEBUG decode:0.05704021453857422
+Thu, 07 Dec 2017 13:37:51 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:37:51 load_image.py[line:89] INFO 19.816242339129165
+Thu, 07 Dec 2017 13:37:51 main.py[line:90] DEBUG displaytime:0.018033981323242188
+Thu, 07 Dec 2017 13:37:52 main.py[line:88] DEBUG decode:0.0570368766784668
+Thu, 07 Dec 2017 13:37:52 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:37:52 load_image.py[line:89] INFO 19.816242339129165
+Thu, 07 Dec 2017 13:37:52 main.py[line:90] DEBUG displaytime:0.019031763076782227
+Thu, 07 Dec 2017 13:37:52 main.py[line:135] INFO Epoch 9 of 20 took 26.81910514831543s
+Thu, 07 Dec 2017 13:37:52 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:37:52 main.py[line:137] INFO   training loss:                 0.00414787450184
+Thu, 07 Dec 2017 13:37:52 main.py[line:138] INFO   validation loss:               0.00327390688471
+Thu, 07 Dec 2017 13:37:52 main.py[line:57] DEBUG load:0.03302407264709473
+Thu, 07 Dec 2017 13:38:00 main.py[line:59] DEBUG run:7.811665296554565
+Thu, 07 Dec 2017 13:38:00 main.py[line:57] DEBUG load:0.036025047302246094
+Thu, 07 Dec 2017 13:38:08 main.py[line:59] DEBUG run:7.858464479446411
+Thu, 07 Dec 2017 13:38:08 main.py[line:57] DEBUG load:0.035025835037231445
+Thu, 07 Dec 2017 13:38:15 main.py[line:59] DEBUG run:7.655755519866943
+Thu, 07 Dec 2017 13:38:17 main.py[line:88] DEBUG decode:0.05603933334350586
+Thu, 07 Dec 2017 13:38:17 load_image.py[line:88] INFO ./display/0
+Thu, 07 Dec 2017 13:38:17 load_image.py[line:89] INFO 19.81555809020434
+Thu, 07 Dec 2017 13:38:17 main.py[line:90] DEBUG displaytime:0.019535303115844727
+Thu, 07 Dec 2017 13:38:18 main.py[line:88] DEBUG decode:0.056040048599243164
+Thu, 07 Dec 2017 13:38:18 load_image.py[line:88] INFO ./display/1
+Thu, 07 Dec 2017 13:38:18 load_image.py[line:89] INFO 19.81555809020434
+Thu, 07 Dec 2017 13:38:18 main.py[line:90] DEBUG displaytime:0.019034385681152344
+Thu, 07 Dec 2017 13:38:19 main.py[line:88] DEBUG decode:0.07004880905151367
+Thu, 07 Dec 2017 13:38:19 load_image.py[line:88] INFO ./display/2
+Thu, 07 Dec 2017 13:38:19 load_image.py[line:89] INFO 19.81555809020434
+Thu, 07 Dec 2017 13:38:19 main.py[line:90] DEBUG displaytime:0.018513917922973633
+Thu, 07 Dec 2017 13:38:19 main.py[line:135] INFO Epoch 10 of 20 took 27.30887770652771s
+Thu, 07 Dec 2017 13:38:19 main.py[line:136] INFO   learning rate:                 0.1
+Thu, 07 Dec 2017 13:38:19 main.py[line:137] INFO   training loss:                 0.00291289404655
+Thu, 07 Dec 2017 13:38:19 main.py[line:138] INFO   validation loss:               0.00226489454508
+Thu, 07 Dec 2017 13:38:19 main.py[line:57] DEBUG load:0.03452467918395996
+Thu, 07 Dec 2017 13:38:27 main.py[line:59] DEBUG run:7.7158520221710205
+Thu, 07 Dec 2017 13:38:27 main.py[line:57] DEBUG load:0.03502511978149414

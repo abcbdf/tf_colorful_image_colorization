@@ -1,0 +1,11 @@
+Sun, 17 Dec 2017 22:17:00 main.py[line:112] INFO Start:
+Sun, 17 Dec 2017 22:17:11 main.py[line:59] DEBUG load:0.0943596363067627
+Sun, 17 Dec 2017 22:17:19 main.py[line:61] DEBUG run:8.179799318313599
+Sun, 17 Dec 2017 22:17:19 main.py[line:59] DEBUG load:0.08463740348815918
+Sun, 17 Dec 2017 22:17:26 main.py[line:61] DEBUG run:7.531553506851196
+Sun, 17 Dec 2017 22:17:27 main.py[line:59] DEBUG load:0.10028266906738281
+Sun, 17 Dec 2017 22:17:34 main.py[line:61] DEBUG run:7.611032485961914
+Sun, 17 Dec 2017 22:17:36 main.py[line:89] DEBUG decode:0.05288338661193848
+Sun, 17 Dec 2017 22:17:36 load_image.py[line:87] INFO ./display/0
+Sun, 17 Dec 2017 22:17:36 load_image.py[line:88] INFO 4.696712074750003
+Sun, 17 Dec 2017 22:17:36 main.py[line:91] DEBUG displaytime:0.11150860786437988

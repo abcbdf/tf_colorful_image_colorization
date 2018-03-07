@@ -1,0 +1,29 @@
+Sun, 17 Dec 2017 21:07:46 main.py[line:111] INFO Start:
+Sun, 17 Dec 2017 21:07:56 main.py[line:59] DEBUG load:0.08464694023132324
+Sun, 17 Dec 2017 21:08:03 main.py[line:61] DEBUG run:7.069175958633423
+Sun, 17 Dec 2017 21:08:04 main.py[line:59] DEBUG load:0.08463740348815918
+Sun, 17 Dec 2017 21:08:10 main.py[line:61] DEBUG run:6.92691445350647
+Sun, 17 Dec 2017 21:08:11 main.py[line:59] DEBUG load:0.10026669502258301
+Sun, 17 Dec 2017 21:08:17 main.py[line:61] DEBUG run:6.917795419692993
+Sun, 17 Dec 2017 21:08:18 main.py[line:135] INFO Epoch 1 of 20 took 21.19906210899353s
+Sun, 17 Dec 2017 21:08:18 main.py[line:136] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:08:18 main.py[line:137] INFO   training loss:                 nan
+Sun, 17 Dec 2017 21:08:18 main.py[line:59] DEBUG load:0.06901383399963379
+Sun, 17 Dec 2017 21:08:24 main.py[line:61] DEBUG run:6.841360330581665
+Sun, 17 Dec 2017 21:08:25 main.py[line:59] DEBUG load:0.0851891040802002
+Sun, 17 Dec 2017 21:08:32 main.py[line:61] DEBUG run:7.32693886756897
+Sun, 17 Dec 2017 21:08:32 main.py[line:59] DEBUG load:0.07806706428527832
+Sun, 17 Dec 2017 21:08:39 main.py[line:61] DEBUG run:6.949556112289429
+Sun, 17 Dec 2017 21:08:39 main.py[line:135] INFO Epoch 2 of 20 took 21.353466749191284s
+Sun, 17 Dec 2017 21:08:39 main.py[line:136] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:08:39 main.py[line:137] INFO   training loss:                 nan
+Sun, 17 Dec 2017 21:08:39 main.py[line:59] DEBUG load:0.07820963859558105
+Sun, 17 Dec 2017 21:08:46 main.py[line:61] DEBUG run:7.118773460388184
+Sun, 17 Dec 2017 21:08:46 main.py[line:59] DEBUG load:0.08463501930236816
+Sun, 17 Dec 2017 21:08:53 main.py[line:61] DEBUG run:7.0656797885894775
+Sun, 17 Dec 2017 21:08:53 main.py[line:59] DEBUG load:0.0841512680053711
+Sun, 17 Dec 2017 21:09:01 main.py[line:61] DEBUG run:7.333452463150024
+Sun, 17 Dec 2017 21:09:01 main.py[line:135] INFO Epoch 3 of 20 took 21.767903566360474s
+Sun, 17 Dec 2017 21:09:01 main.py[line:136] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:09:01 main.py[line:137] INFO   training loss:                 nan
+Sun, 17 Dec 2017 21:09:01 main.py[line:59] DEBUG load:0.07662177085876465

@@ -1,0 +1,8 @@
+Sun, 17 Dec 2017 22:07:25 main.py[line:112] INFO Start:
+Sun, 17 Dec 2017 22:07:36 main.py[line:59] DEBUG load:0.07709479331970215
+Sun, 17 Dec 2017 22:07:44 main.py[line:61] DEBUG run:7.88111138343811
+Sun, 17 Dec 2017 22:07:44 main.py[line:59] DEBUG load:0.08293914794921875
+Sun, 17 Dec 2017 22:07:51 main.py[line:61] DEBUG run:7.475907802581787
+Sun, 17 Dec 2017 22:07:51 main.py[line:59] DEBUG load:0.08313345909118652
+Sun, 17 Dec 2017 22:07:59 main.py[line:61] DEBUG run:7.6693761348724365
+Sun, 17 Dec 2017 22:08:00 main.py[line:89] DEBUG decode:0.0534062385559082

@@ -1,0 +1,182 @@
+Sun, 17 Dec 2017 21:34:21 main.py[line:112] INFO Start:
+Sun, 17 Dec 2017 21:34:32 main.py[line:60] DEBUG load:0.08464932441711426
+Sun, 17 Dec 2017 21:34:39 main.py[line:62] DEBUG run:7.176570653915405
+Sun, 17 Dec 2017 21:34:39 main.py[line:60] DEBUG load:0.07048225402832031
+Sun, 17 Dec 2017 21:34:46 main.py[line:62] DEBUG run:6.841634511947632
+Sun, 17 Dec 2017 21:34:46 main.py[line:60] DEBUG load:0.08284139633178711
+Sun, 17 Dec 2017 21:34:53 main.py[line:62] DEBUG run:7.014039516448975
+Sun, 17 Dec 2017 21:34:53 main.py[line:136] INFO Epoch 1 of 20 took 21.272218942642212s
+Sun, 17 Dec 2017 21:34:53 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:34:53 main.py[line:138] INFO   training loss:                 21899.7402344
+Sun, 17 Dec 2017 21:34:53 main.py[line:60] DEBUG load:0.08659052848815918
+Sun, 17 Dec 2017 21:35:00 main.py[line:62] DEBUG run:7.071077108383179
+Sun, 17 Dec 2017 21:35:00 main.py[line:60] DEBUG load:0.08564162254333496
+Sun, 17 Dec 2017 21:35:07 main.py[line:62] DEBUG run:7.037590026855469
+Sun, 17 Dec 2017 21:35:07 main.py[line:60] DEBUG load:0.10037088394165039
+Sun, 17 Dec 2017 21:35:14 main.py[line:62] DEBUG run:6.824159622192383
+Sun, 17 Dec 2017 21:35:14 main.py[line:136] INFO Epoch 2 of 20 took 21.222558975219727s
+Sun, 17 Dec 2017 21:35:14 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:35:14 main.py[line:138] INFO   training loss:                 13222.1363932
+Sun, 17 Dec 2017 21:35:14 main.py[line:60] DEBUG load:0.07052779197692871
+Sun, 17 Dec 2017 21:35:21 main.py[line:62] DEBUG run:6.980340957641602
+Sun, 17 Dec 2017 21:35:21 main.py[line:60] DEBUG load:0.08463621139526367
+Sun, 17 Dec 2017 21:35:28 main.py[line:62] DEBUG run:7.03351092338562
+Sun, 17 Dec 2017 21:35:28 main.py[line:60] DEBUG load:0.10026407241821289
+Sun, 17 Dec 2017 21:35:35 main.py[line:62] DEBUG run:6.878960371017456
+Sun, 17 Dec 2017 21:35:35 main.py[line:136] INFO Epoch 3 of 20 took 21.148240327835083s
+Sun, 17 Dec 2017 21:35:35 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:35:35 main.py[line:138] INFO   training loss:                 10787.6738281
+Sun, 17 Dec 2017 21:35:35 main.py[line:60] DEBUG load:0.0928030014038086
+Sun, 17 Dec 2017 21:35:42 main.py[line:62] DEBUG run:7.1294848918914795
+Sun, 17 Dec 2017 21:35:42 main.py[line:60] DEBUG load:0.08465313911437988
+Sun, 17 Dec 2017 21:35:49 main.py[line:62] DEBUG run:6.845448732376099
+Sun, 17 Dec 2017 21:35:49 main.py[line:60] DEBUG load:0.10013270378112793
+Sun, 17 Dec 2017 21:35:57 main.py[line:62] DEBUG run:7.195637226104736
+Sun, 17 Dec 2017 21:35:57 main.py[line:136] INFO Epoch 4 of 20 took 21.44815969467163s
+Sun, 17 Dec 2017 21:35:57 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:35:57 main.py[line:138] INFO   training loss:                 8870.74088542
+Sun, 17 Dec 2017 21:35:57 main.py[line:60] DEBUG load:0.09047412872314453
+Sun, 17 Dec 2017 21:36:04 main.py[line:62] DEBUG run:6.905636548995972
+Sun, 17 Dec 2017 21:36:04 main.py[line:60] DEBUG load:0.08879470825195312
+Sun, 17 Dec 2017 21:36:11 main.py[line:62] DEBUG run:7.060339689254761
+Sun, 17 Dec 2017 21:36:11 main.py[line:60] DEBUG load:0.08756422996520996
+Sun, 17 Dec 2017 21:36:18 main.py[line:62] DEBUG run:6.960002899169922
+Sun, 17 Dec 2017 21:36:18 main.py[line:136] INFO Epoch 5 of 20 took 21.196815013885498s
+Sun, 17 Dec 2017 21:36:18 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:36:18 main.py[line:138] INFO   training loss:                 8079.00488281
+Sun, 17 Dec 2017 21:36:18 main.py[line:60] DEBUG load:0.07441163063049316
+Sun, 17 Dec 2017 21:36:25 main.py[line:62] DEBUG run:6.897601842880249
+Sun, 17 Dec 2017 21:36:25 main.py[line:60] DEBUG load:0.08367776870727539
+Sun, 17 Dec 2017 21:36:32 main.py[line:62] DEBUG run:7.143212556838989
+Sun, 17 Dec 2017 21:36:32 main.py[line:60] DEBUG load:0.09164309501647949
+Sun, 17 Dec 2017 21:36:39 main.py[line:62] DEBUG run:6.805253505706787
+Sun, 17 Dec 2017 21:36:39 main.py[line:136] INFO Epoch 6 of 20 took 21.096800804138184s
+Sun, 17 Dec 2017 21:36:39 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:36:39 main.py[line:138] INFO   training loss:                 7467.97623698
+Sun, 17 Dec 2017 21:36:39 main.py[line:60] DEBUG load:0.09575915336608887
+Sun, 17 Dec 2017 21:36:46 main.py[line:62] DEBUG run:6.981996297836304
+Sun, 17 Dec 2017 21:36:46 main.py[line:60] DEBUG load:0.0846703052520752
+Sun, 17 Dec 2017 21:36:53 main.py[line:62] DEBUG run:6.831843852996826
+Sun, 17 Dec 2017 21:36:53 main.py[line:60] DEBUG load:0.07812690734863281
+Sun, 17 Dec 2017 21:37:00 main.py[line:62] DEBUG run:7.108748435974121
+Sun, 17 Dec 2017 21:37:00 main.py[line:136] INFO Epoch 7 of 20 took 21.19692635536194s
+Sun, 17 Dec 2017 21:37:00 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:37:00 main.py[line:138] INFO   training loss:                 7132.43229167
+Sun, 17 Dec 2017 21:37:00 main.py[line:60] DEBUG load:0.08671998977661133
+Sun, 17 Dec 2017 21:37:07 main.py[line:62] DEBUG run:6.819668531417847
+Sun, 17 Dec 2017 21:37:07 main.py[line:60] DEBUG load:0.09975981712341309
+Sun, 17 Dec 2017 21:37:14 main.py[line:62] DEBUG run:7.057132959365845
+Sun, 17 Dec 2017 21:37:14 main.py[line:60] DEBUG load:0.10234642028808594
+Sun, 17 Dec 2017 21:37:21 main.py[line:62] DEBUG run:6.921679258346558
+Sun, 17 Dec 2017 21:37:21 main.py[line:136] INFO Epoch 8 of 20 took 21.08730697631836s
+Sun, 17 Dec 2017 21:37:21 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:37:21 main.py[line:138] INFO   training loss:                 6855.23909505
+Sun, 17 Dec 2017 21:37:21 main.py[line:60] DEBUG load:0.08463454246520996
+Sun, 17 Dec 2017 21:37:28 main.py[line:62] DEBUG run:6.824376344680786
+Sun, 17 Dec 2017 21:37:28 main.py[line:60] DEBUG load:0.0846550464630127
+Sun, 17 Dec 2017 21:37:35 main.py[line:62] DEBUG run:6.96163010597229
+Sun, 17 Dec 2017 21:37:35 main.py[line:60] DEBUG load:0.09069418907165527
+Sun, 17 Dec 2017 21:37:42 main.py[line:62] DEBUG run:6.739508152008057
+Sun, 17 Dec 2017 21:37:42 main.py[line:136] INFO Epoch 9 of 20 took 20.78549838066101s
+Sun, 17 Dec 2017 21:37:42 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:37:42 main.py[line:138] INFO   training loss:                 6645.28792318
+Sun, 17 Dec 2017 21:37:42 main.py[line:60] DEBUG load:0.08463597297668457
+Sun, 17 Dec 2017 21:37:49 main.py[line:62] DEBUG run:6.93584418296814
+Sun, 17 Dec 2017 21:37:49 main.py[line:60] DEBUG load:0.08263564109802246
+Sun, 17 Dec 2017 21:37:56 main.py[line:62] DEBUG run:6.874423980712891
+Sun, 17 Dec 2017 21:37:56 main.py[line:60] DEBUG load:0.08463764190673828
+Sun, 17 Dec 2017 21:38:03 main.py[line:62] DEBUG run:6.817019701004028
+Sun, 17 Dec 2017 21:38:03 main.py[line:136] INFO Epoch 10 of 20 took 20.879197120666504s
+Sun, 17 Dec 2017 21:38:03 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:38:03 main.py[line:138] INFO   training loss:                 6502.54817708
+Sun, 17 Dec 2017 21:38:03 main.py[line:60] DEBUG load:0.09314441680908203
+Sun, 17 Dec 2017 21:38:10 main.py[line:62] DEBUG run:6.805523157119751
+Sun, 17 Dec 2017 21:38:10 main.py[line:60] DEBUG load:0.0858616828918457
+Sun, 17 Dec 2017 21:38:17 main.py[line:62] DEBUG run:6.751761198043823
+Sun, 17 Dec 2017 21:38:17 main.py[line:60] DEBUG load:0.08914589881896973
+Sun, 17 Dec 2017 21:38:24 main.py[line:62] DEBUG run:6.998116493225098
+Sun, 17 Dec 2017 21:38:24 main.py[line:136] INFO Epoch 11 of 20 took 20.82355284690857s
+Sun, 17 Dec 2017 21:38:24 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:38:24 main.py[line:138] INFO   training loss:                 6387.24544271
+Sun, 17 Dec 2017 21:38:24 main.py[line:60] DEBUG load:0.08442306518554688
+Sun, 17 Dec 2017 21:38:31 main.py[line:62] DEBUG run:6.9736433029174805
+Sun, 17 Dec 2017 21:38:31 main.py[line:60] DEBUG load:0.07118582725524902
+Sun, 17 Dec 2017 21:38:38 main.py[line:62] DEBUG run:6.974418640136719
+Sun, 17 Dec 2017 21:38:38 main.py[line:60] DEBUG load:0.07130074501037598
+Sun, 17 Dec 2017 21:38:45 main.py[line:62] DEBUG run:7.084415435791016
+Sun, 17 Dec 2017 21:38:45 main.py[line:136] INFO Epoch 12 of 20 took 21.260387420654297s
+Sun, 17 Dec 2017 21:38:45 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:38:45 main.py[line:138] INFO   training loss:                 6295.35009766
+Sun, 17 Dec 2017 21:38:45 main.py[line:60] DEBUG load:0.08467435836791992
+Sun, 17 Dec 2017 21:38:52 main.py[line:62] DEBUG run:7.166818618774414
+Sun, 17 Dec 2017 21:38:52 main.py[line:60] DEBUG load:0.0846550464630127
+Sun, 17 Dec 2017 21:38:59 main.py[line:62] DEBUG run:6.784628868103027
+Sun, 17 Dec 2017 21:38:59 main.py[line:60] DEBUG load:0.0846555233001709
+Sun, 17 Dec 2017 21:39:06 main.py[line:62] DEBUG run:6.795048236846924
+Sun, 17 Dec 2017 21:39:06 main.py[line:136] INFO Epoch 13 of 20 took 21.01810359954834s
+Sun, 17 Dec 2017 21:39:06 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:39:06 main.py[line:138] INFO   training loss:                 6222.39860026
+Sun, 17 Dec 2017 21:39:06 main.py[line:60] DEBUG load:0.07814693450927734
+Sun, 17 Dec 2017 21:39:13 main.py[line:62] DEBUG run:6.919987440109253
+Sun, 17 Dec 2017 21:39:13 main.py[line:60] DEBUG load:0.08336234092712402
+Sun, 17 Dec 2017 21:39:20 main.py[line:62] DEBUG run:6.820183753967285
+Sun, 17 Dec 2017 21:39:20 main.py[line:60] DEBUG load:0.07440042495727539
+Sun, 17 Dec 2017 21:39:27 main.py[line:62] DEBUG run:6.9847564697265625
+Sun, 17 Dec 2017 21:39:27 main.py[line:136] INFO Epoch 14 of 20 took 20.960837364196777s
+Sun, 17 Dec 2017 21:39:27 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:39:27 main.py[line:138] INFO   training loss:                 6160.91585286
+Sun, 17 Dec 2017 21:39:27 main.py[line:60] DEBUG load:0.10080599784851074
+Sun, 17 Dec 2017 21:39:34 main.py[line:62] DEBUG run:6.780470609664917
+Sun, 17 Dec 2017 21:39:34 main.py[line:60] DEBUG load:0.10316205024719238
+Sun, 17 Dec 2017 21:39:41 main.py[line:62] DEBUG run:7.020581245422363
+Sun, 17 Dec 2017 21:39:41 main.py[line:60] DEBUG load:0.07820487022399902
+Sun, 17 Dec 2017 21:39:48 main.py[line:62] DEBUG run:6.851802587509155
+Sun, 17 Dec 2017 21:39:48 main.py[line:136] INFO Epoch 15 of 20 took 20.935027360916138s
+Sun, 17 Dec 2017 21:39:48 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:39:48 main.py[line:138] INFO   training loss:                 6110.08740234
+Sun, 17 Dec 2017 21:39:48 main.py[line:60] DEBUG load:0.08712506294250488
+Sun, 17 Dec 2017 21:39:55 main.py[line:62] DEBUG run:6.844103097915649
+Sun, 17 Dec 2017 21:39:55 main.py[line:60] DEBUG load:0.07857608795166016
+Sun, 17 Dec 2017 21:40:02 main.py[line:62] DEBUG run:6.868753671646118
+Sun, 17 Dec 2017 21:40:02 main.py[line:60] DEBUG load:0.07658815383911133
+Sun, 17 Dec 2017 21:40:09 main.py[line:62] DEBUG run:6.814543008804321
+Sun, 17 Dec 2017 21:40:09 main.py[line:136] INFO Epoch 16 of 20 took 20.7701895236969s
+Sun, 17 Dec 2017 21:40:09 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:40:09 main.py[line:138] INFO   training loss:                 6067.47184245
+Sun, 17 Dec 2017 21:40:09 main.py[line:60] DEBUG load:0.08609485626220703
+Sun, 17 Dec 2017 21:40:16 main.py[line:62] DEBUG run:7.036228895187378
+Sun, 17 Dec 2017 21:40:16 main.py[line:60] DEBUG load:0.07786750793457031
+Sun, 17 Dec 2017 21:40:23 main.py[line:62] DEBUG run:6.777010679244995
+Sun, 17 Dec 2017 21:40:23 main.py[line:60] DEBUG load:0.09241080284118652
+Sun, 17 Dec 2017 21:40:30 main.py[line:62] DEBUG run:6.926457405090332
+Sun, 17 Dec 2017 21:40:30 main.py[line:136] INFO Epoch 17 of 20 took 20.99607014656067s
+Sun, 17 Dec 2017 21:40:30 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:40:30 main.py[line:138] INFO   training loss:                 6031.68945313
+Sun, 17 Dec 2017 21:40:30 main.py[line:60] DEBUG load:0.09641575813293457
+Sun, 17 Dec 2017 21:40:36 main.py[line:62] DEBUG run:6.743309736251831
+Sun, 17 Dec 2017 21:40:36 main.py[line:60] DEBUG load:0.08313655853271484
+Sun, 17 Dec 2017 21:40:43 main.py[line:62] DEBUG run:6.959672927856445
+Sun, 17 Dec 2017 21:40:44 main.py[line:60] DEBUG load:0.091064453125
+Sun, 17 Dec 2017 21:40:50 main.py[line:62] DEBUG run:6.778957366943359
+Sun, 17 Dec 2017 21:40:50 main.py[line:136] INFO Epoch 18 of 20 took 20.752556800842285s
+Sun, 17 Dec 2017 21:40:50 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:40:50 main.py[line:138] INFO   training loss:                 6001.25
+Sun, 17 Dec 2017 21:40:50 main.py[line:60] DEBUG load:0.08463644981384277
+Sun, 17 Dec 2017 21:40:57 main.py[line:62] DEBUG run:6.81437349319458
+Sun, 17 Dec 2017 21:40:57 main.py[line:60] DEBUG load:0.08464932441711426
+Sun, 17 Dec 2017 21:41:04 main.py[line:62] DEBUG run:7.030988931655884
+Sun, 17 Dec 2017 21:41:04 main.py[line:60] DEBUG load:0.08463501930236816
+Sun, 17 Dec 2017 21:41:11 main.py[line:62] DEBUG run:6.795659780502319
+Sun, 17 Dec 2017 21:41:11 main.py[line:136] INFO Epoch 19 of 20 took 20.89494299888611s
+Sun, 17 Dec 2017 21:41:11 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:41:11 main.py[line:138] INFO   training loss:                 5974.77067057
+Sun, 17 Dec 2017 21:41:11 main.py[line:60] DEBUG load:0.0841977596282959
+Sun, 17 Dec 2017 21:41:19 main.py[line:62] DEBUG run:7.271820068359375
+Sun, 17 Dec 2017 21:41:19 main.py[line:60] DEBUG load:0.10256409645080566
+Sun, 17 Dec 2017 21:41:26 main.py[line:62] DEBUG run:6.879467487335205
+Sun, 17 Dec 2017 21:41:26 main.py[line:60] DEBUG load:0.08616924285888672
+Sun, 17 Dec 2017 21:41:33 main.py[line:62] DEBUG run:6.960974454879761
+Sun, 17 Dec 2017 21:41:33 main.py[line:136] INFO Epoch 20 of 20 took 21.387194395065308s
+Sun, 17 Dec 2017 21:41:33 main.py[line:137] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 21:41:33 main.py[line:138] INFO   training loss:                 5951.84082031
+Sun, 17 Dec 2017 21:41:33 main.py[line:144] INFO End

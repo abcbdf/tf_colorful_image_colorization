@@ -1,0 +1,28 @@
+Sun, 17 Dec 2017 23:58:17 main.py[line:113] INFO Start:
+Sun, 17 Dec 2017 23:58:27 main.py[line:59] DEBUG load:0.09108877182006836
+Sun, 17 Dec 2017 23:58:35 main.py[line:61] DEBUG run:7.773360729217529
+Sun, 17 Dec 2017 23:58:35 main.py[line:59] DEBUG load:0.09556841850280762
+Sun, 17 Dec 2017 23:58:43 main.py[line:61] DEBUG run:7.485571384429932
+Sun, 17 Dec 2017 23:58:43 main.py[line:59] DEBUG load:0.08910179138183594
+Sun, 17 Dec 2017 23:58:51 main.py[line:61] DEBUG run:7.768272399902344
+Sun, 17 Dec 2017 23:58:52 main.py[line:90] DEBUG decode:0.06406855583190918
+Sun, 17 Dec 2017 23:58:52 load_image.py[line:86] INFO ./display/0
+Sun, 17 Dec 2017 23:58:52 load_image.py[line:87] INFO 4.707011982687014
+Sun, 17 Dec 2017 23:58:52 main.py[line:92] DEBUG displaytime:0.1616649627685547
+Sun, 17 Dec 2017 23:58:54 main.py[line:90] DEBUG decode:0.06163144111633301
+Sun, 17 Dec 2017 23:58:54 load_image.py[line:86] INFO ./display/1
+Sun, 17 Dec 2017 23:58:54 load_image.py[line:87] INFO 4.707011982687014
+Sun, 17 Dec 2017 23:58:54 main.py[line:92] DEBUG displaytime:0.10857915878295898
+Sun, 17 Dec 2017 23:58:55 main.py[line:90] DEBUG decode:0.06458806991577148
+Sun, 17 Dec 2017 23:58:55 load_image.py[line:86] INFO ./display/2
+Sun, 17 Dec 2017 23:58:55 load_image.py[line:87] INFO 4.707011982687014
+Sun, 17 Dec 2017 23:58:55 main.py[line:92] DEBUG displaytime:0.14163446426391602
+Sun, 17 Dec 2017 23:58:55 main.py[line:137] INFO Epoch 1 of 20 took 27.7758731842041s
+Sun, 17 Dec 2017 23:58:55 main.py[line:138] INFO   learning rate:                 0.0001
+Sun, 17 Dec 2017 23:58:55 main.py[line:139] INFO   training loss:                 25927.25
+Sun, 17 Dec 2017 23:58:55 main.py[line:140] INFO   validation loss:               73963744.0
+Sun, 17 Dec 2017 23:58:55 main.py[line:59] DEBUG load:0.1106727123260498
+Sun, 17 Dec 2017 23:59:03 main.py[line:61] DEBUG run:7.953921556472778
+Sun, 17 Dec 2017 23:59:03 main.py[line:59] DEBUG load:0.09474635124206543
+Sun, 17 Dec 2017 23:59:11 main.py[line:61] DEBUG run:8.077096939086914
+Sun, 17 Dec 2017 23:59:12 main.py[line:59] DEBUG load:0.10163354873657227
